@@ -1,0 +1,17 @@
+{
+    "assets": [
+        {
+            "file_name": "PCL2_CE_Release_x64.patch",
+            "version": {
+                "channel": "srx64",
+                "name": "2.13.3",
+                "code": 413
+            },
+            "upd_time": "2026-01-13 01:56:10",
+            "downloads": [],
+            "patches": [ ],
+            "sha256": "",
+            "changelog": "首个Pro版本 By2.13.3"
+        }
+    ]
+}
